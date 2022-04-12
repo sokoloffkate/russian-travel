@@ -1,7 +1,7 @@
 .place__image {
   grid-area: image; 
-  min-width: 460px; 
-  max-width: 100%;
+  max-width: 460px; 
   min-height: 460px;  
   object-fit: cover;
+  
 }

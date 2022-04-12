@@ -2,7 +2,8 @@
  display: flex;
  flex-direction: column;
  max-width: 690px;
- max-height: 429px;
- padding-left: 148px; 
+ min-height: 429px;
+ padding: 0 0 0 148px; 
  text-align: left;
+ font-family: 'Inter', Arial, sans-serif; 
 }
