@@ -1,5 +1,5 @@
 .lead {
-  font-family: 'Inter', Arial, sans-serif; 
+  font-family: 'Inter', Arial, sans-serif;
   color: #FFFFFF;
   display: flex;
   flex-direction: column;
@@ -7,20 +7,17 @@
   max-width: 984px;
   min-height: 1005px;
   padding: 0;
-  
-  }
+}
 
 @media screen and (max-width: 1140px) {
   .lead {
-    min-height: 962pxpx;
-    
+    min-height: 962px;
   }  
 }
 
 @media screen and (max-width: 984px) {
   .lead {
     min-height: 862px;
-    
   }  
 }
 

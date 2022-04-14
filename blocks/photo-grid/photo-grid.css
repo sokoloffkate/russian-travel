@@ -3,7 +3,6 @@
  display: grid;   
  gap: 16px; 
  justify-content: center;
- max-width: 1184px;
  max-width: 100%;
  grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
   
