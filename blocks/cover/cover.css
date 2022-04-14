@@ -1,12 +1,12 @@
 .cover {
-  font-family: 'Inter', Arial, sans-serif;  
+  font-family: 'Inter', Arial, sans-serif;
   padding: 0 48px;
 }
 
 @media screen and (max-width: 1140px) {
     .cover {
       padding: 0;
-    }  
+     }  
   }
   
  
