@@ -6,12 +6,10 @@
  margin: 0 0 0 148px; 
  text-align: left;
  font-family: 'Inter', Arial, sans-serif; 
- 
 }
 
 @media screen and (max-width: 1140px) {
     .intro {
-    /*padding: 0 0 0 48px;*/
     margin: 0 0 0 48px;
     }  
   }
@@ -25,16 +23,13 @@
   @media screen and (max-width: 730px) {
     .intro {
      padding: 0 24px;
-    
-    }  
+     }  
   }
 
   @media screen and (max-width: 568px) {
     .intro {
       padding: 0 16px;
       margin: 0 auto;
-       
-               
-  }
+    }
 }
   
