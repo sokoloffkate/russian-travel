@@ -16,9 +16,9 @@
 }
 
 .cover__item::before {
-  content: '';  
-  background: #2a2c2f; 
-  opacity: .3; 
+  content: '';
+  background: #2a2c2f;
+  opacity: .3;
   position: absolute;
   top: 0;
   left: 0;
@@ -35,7 +35,6 @@
 @media screen and (max-width: 1140px) {
     .cover__item {
       min-height: 640px;
-      
     }  
   }
   

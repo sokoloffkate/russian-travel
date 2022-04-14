@@ -3,7 +3,7 @@
   row-gap: 48px;
   column-gap: 40px;
   grid-template-columns:minmax(460px, max-content);
-  grid-template-rows: 1fr; 
+  grid-template-rows: 1fr;
   grid-template-areas: 
   "title website"
   "image paragraph";
@@ -29,7 +29,7 @@
 @media screen and (max-width: 568px) {
   .place {
     grid-template-columns:minmax(320px, max-content);
-    grid-template-areas: 
+    grid-template-areas:
      "title"
      "website"
      "image" 
