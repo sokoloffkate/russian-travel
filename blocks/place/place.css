@@ -2,7 +2,7 @@
   display: grid;
   row-gap: 48px;
   column-gap: 40px;
-  grid-template-columns:minmax(460px, max-content);
+  grid-template-columns:minmax(min-content, 460px);
   grid-template-rows: 1fr;
   grid-template-areas: 
   "title website"
@@ -13,17 +13,16 @@
 
 @media screen and (max-width: 1140px) {
   .place {
-    grid-template-columns:minmax(440px, max-content);
+    grid-template-columns:minmax(min-content, 440px);
     column-gap: 32px;
   }  
 }
 
 @media screen and (max-width: 984px) {
   .place {
-    grid-template-columns:minmax(340px, max-content);
+    grid-template-columns:minmax(min-content, 340px);
     column-gap: 28px;
-    padding: 0 24px;
- }  
+  }  
 }
 
 @media screen and (max-width: 568px) {
@@ -35,6 +34,5 @@
      "image" 
      "paragraph";
      row-gap: 32px;
-     padding: 0 16px;
-  } 
+    } 
 }

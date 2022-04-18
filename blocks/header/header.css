@@ -5,21 +5,18 @@
   font-family: 'Inter', Arial, sans-serif;
   box-sizing: border-box;
   width: 100%;
-  padding: 0;
   margin: 0 auto;
 }
 
 @media screen and (max-width: 1140px) {
   .header {
     padding: 0 48px;
-    
   }  
 }
 
 @media screen and (max-width: 984px) {
   .header {
     padding: 0 24px;
-    
   }  
 }
 
