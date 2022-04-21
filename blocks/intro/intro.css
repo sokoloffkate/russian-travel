@@ -2,7 +2,6 @@
  display: flex;
  flex-direction: column;
  max-width: 690px;
- min-height: 429px;
  margin: 0 0 0 148px;
  text-align: left;
  font-family: 'Inter', Arial, sans-serif; 
@@ -17,14 +16,13 @@
 @media screen and (max-width: 984px) {
     .intro {
         padding: 0 16px;
-        margin: 0;
+        margin: 0 auto;
     }  
   }
 
   @media screen and (max-width: 568px) {
     .intro {
         padding: 0 16px;
-        margin: 0;
-   }
+    }
 }
   

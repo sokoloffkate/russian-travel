@@ -7,9 +7,17 @@
 }
 
 @font-face {
-    src: url(../fonts/Inter/Inter-ExtraBold.otf);
-    src: url(../fonts/Inter/Inter-ExtraBold.woff) format(woff);
-    src: url(../fonts/Inter/Inter-ExtraBold.woff2) format(woff2);
+    src: url(../fonts/Inter/Inter-Bold.otf);
+    src: url(../fonts/Inter/Inter-Bold.woff) format(woff);
+    src: url(../fonts/Inter/Inter-Bold.woff2) format(woff2);
+    font-family: 'Inter';
+    font-weight: 700;
+}
+
+@font-face {
+    src: url(../fonts/Inter/Inter-Black.otf);
+    src: url(../fonts/Inter/Inter-Black.woff) format(woff);
+    src: url(../fonts/Inter/Inter-Black.woff2) format(woff2);
     font-family: 'Inter';
     font-weight: 900;
 }

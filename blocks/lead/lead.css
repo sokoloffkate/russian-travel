@@ -5,24 +5,5 @@
   flex-direction: column;
   align-items: center;
   max-width: 984px;
-  min-height: 1005px;
   padding: 0;
-}
-
-@media screen and (max-width: 1140px) {
-  .lead {
-    min-height: 962px;
-  }  
-}
-
-@media screen and (max-width: 984px) {
-  .lead {
-    min-height: 862px;
-  }  
-}
-
-@media screen and (max-width: 568px) {
-  .lead {
-    min-height: 406px;
-  }  
 }
