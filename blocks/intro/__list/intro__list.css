@@ -4,3 +4,9 @@
     margin: 0;
 }
 
+@media screen and (max-width: 984px) {
+  .intro__list {
+    max-width: 720px;
+  }  
+}
+
