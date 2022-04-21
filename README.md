@@ -11,4 +11,4 @@ cоздание одностраничного сайта, размеры кот
 - название классов по БЭМ;
 - создана файловая структура по БЭМ (Nested);
 
-ССылка на файл - https://sokoloffkate.github.io/russian-travel/
+Сcылка на файл - https://sokoloffkate.github.io/russian-travel/
