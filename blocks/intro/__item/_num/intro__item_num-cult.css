@@ -1,0 +1,4 @@
+.intro__item_num-cult::after {
+    content: '16';  
+    font-weight: 700;
+   }

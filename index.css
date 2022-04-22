@@ -19,7 +19,11 @@
 @import url(blocks/intro/__text/intro__text.css);
 @import url(blocks/intro/__list/intro__list.css);
 @import url(blocks/intro/__item/intro__item.css);
-@import url(blocks/intro/__item/_num/into__item_num.css);
+@import url(blocks/intro/__item/_num/into__item_num-tz.css);
+@import url(blocks/intro/__item/_num/intro__item_num-nat.css);
+@import url(blocks/intro/__item/_num/intro__item_num-cult.css);
+@import url(blocks/intro/__item/_num/intro__item_num-reserv.css);
+@import url(blocks/intro/__item/_num/intro__item_num-airport.css);
 @import url(blocks/photo-grid/photo-grid.css);
 @import url(blocks/photo-grid/__item/photo-grid__item.css);
 @import url(blocks/places/places.css);
